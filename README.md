@@ -45,4 +45,7 @@ more here : https://developer.twitter.com/en/docs/accounts-and-users/subscribe-a
 windows users need to **remoove** or **comment out** all threading methods and start flask and ngrok on their own
 
 
-also if you need anything contact me at : lennyisnan@gmail.com, bye!
+
+
+
+also if you have any questions contact me at : lennyisnan@gmail.com, bye!
