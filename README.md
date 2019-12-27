@@ -3,12 +3,12 @@ Automatically creates a connection to the twitter accountActivity webhook using 
 
 
 # Steps
-- install the modules from 'requirements.txt'
+- install the modules from **'requirements.txt'**
 - apply for a developer account (https://developer.twitter.com/en/apply-for-access)
 - create a new Twitter app (https://developer.twitter.com/en/apps)
 - create a new dev env (https://developer.twitter.com/en/docs/basics/developer-portal/guides/dev-environments)
-- put your credentials in 'credentials.py' (https://developer.twitter.com/en/apps/ and then click details)
-- that's it! now you can just use start.py and the bot should be running
+- put your credentials in **'credentials.py'** (https://developer.twitter.com/en/apps/ and then click details)
+- that's it! now you can just use **'start.py'** and the bot should be running
 
 # Quick explanation
 
