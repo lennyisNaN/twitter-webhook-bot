@@ -1,0 +1,5 @@
+consumer_key = '<insert your consumer_key>'
+consumer_key_secret = '<insert your consumer_key_secret>'
+access_token = '<insert your access_token>'
+access_token_secret = '<insert your access_token_secret>'
+env_name = '<insert your env_name>'
