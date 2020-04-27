@@ -42,7 +42,7 @@ more here : https://developer.twitter.com/en/docs/accounts-and-users/subscribe-a
 
 **this project was made for linux and mac users** because it uses os.system()
 
-windows users need to **remoove** or **comment out** all threading methods and start flask and ngrok on their own
+windows users need to **remove** or **comment out** all threading methods and start flask and ngrok on their own
 
 
 
